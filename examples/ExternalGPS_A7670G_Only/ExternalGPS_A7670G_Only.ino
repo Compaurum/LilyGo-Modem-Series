@@ -8,7 +8,8 @@
  *            Works only with externally mounted GPS modules.
  *            If the purchased board includes a GPS extension module it will work,
  *            otherwise this sketch will have no effect
- * @note      Only support T-A7670G + L76K GPS Module board , not support others
+ * @note      Only support ESP32 Version T-A7670G + L76K GPS Module board , not support others
+ *            T-XXXX-S3-Standard Version see S3_StandardSeries_External_GPS_Shield example
  */
 
 #ifndef SerialAT
@@ -57,7 +58,7 @@ void setup()
     digitalWrite(BOARD_MODEM_PWR_PIN, LOW);
     delay(100);
     digitalWrite(BOARD_MODEM_PWR_PIN, HIGH);
-    delay(1000);
+    delay(100);
     digitalWrite(BOARD_MODEM_PWR_PIN, LOW);
 
     Serial.begin(115200);
@@ -81,7 +82,7 @@ void loop()
 {
     while (SerialGPS.available()) {
         int c = SerialGPS.read();
-        // Serial.write(c);     // Debug gps nmae message output to serial
+        // Serial.write(c);     // Debug gps nmea message output to serial
         if (gps.encode(c)) {
             displayInfo();
         }

@@ -19,7 +19,6 @@
 
 ![T-SIM7670G-ESP32S3](./esp32s3/T-SIM7670G-ESP32S3.png)
 
-
 # T-SIM7600X-ESP32
 
 ![T-SIM7600-ESP32](./esp32/T-SIM7600-ESP32.png)
@@ -27,3 +26,15 @@
 # T-SIM7000G-ESP32
 
 ![T-SIM7000G-ESP32](./esp32/T-SIM7000-ESP32.png)
+
+# T-SIM7000G-A7670-SIM7080-SIM7670-S3-Standard
+
+![T-SIM7000G-A7670-SIM7080-SIM7670-S3-Standard](./Standard/T-XXXXX-S3-Standard.png)
+
+# T-SIM7600G-S3-Standard
+
+![T-SIM7600G-S3-Standard](./Standard/T-SIM7600G-S3-Standard.png)
+
+# T-SIM-DC-Shield
+
+![T-SIM-DC-Shield](./T-Sim-DC-Shield/T-Sim-DC-Shield.png)

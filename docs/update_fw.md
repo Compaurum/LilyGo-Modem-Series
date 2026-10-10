@@ -5,6 +5,12 @@
 
 <h1 align = "center">🌟LilyGo A7670/A7608 Upgrade Guide🌟</h1>
 
+<div align="center">
+
+[English](./update_fw.md) | [中文](./cn/update_fw.md)
+
+</div>
+
 # Prerequisites
 
 ## Driver
@@ -35,6 +41,7 @@
 
 <!-- * [A7670G B18](https://drive.google.com/file/d/10BxF-O2aPQ9vB5N97VT3bxPguURNoMvF/view?usp=sharing) Known HTTP 715 Errors Don't use this version- -->
 * [A7670G-LLSE A124B01](https://drive.google.com/file/d/1-UOq_7TxU8aNAY4KKuXtnoRt0UZwipSQ/view?usp=sharing)
+* 🆕[A7670G-LLSE A124B02](https://drive.google.com/file/d/1fxssXlsRg4nuaVHQ1KjmwYmpvRmVX9jH/view?usp=sharing)
 
 <!-- (LTE-FDD B1/B2/B3/B4/B5/B7/B8/B12*/B13*LB18*/B19*/B20/B25*/B26*/B28/B66/ LTE-TDD B34/B38/B39/B40/B41 GSM/GPRS/EDGE 850/900/1800/1900 MHz) -->
 
@@ -58,7 +65,8 @@
 ### A7670E-FASE GPS
 
 <!-- A011B07V01A7670M7_F_A7670E-FASE_CD_V101230711 -->
-* [A7670E-FASE B07](https://drive.google.com/file/d/1-5A9w4MCXNz6F5ODhynne0rC9IUOeOdH/view?usp=sharing)<!-- 20241008 Update Fixed  HTTP 715 error-->
+* [A7670E-FASE A011B07V01A7670M7](https://drive.google.com/file/d/1-5A9w4MCXNz6F5ODhynne0rC9IUOeOdH/view?usp=sharing)<!-- 20241008 Update Fixed  HTTP 715 error-->
+* 🆕[A7670E-FASE A011B09A7670M7](https://drive.google.com/file/d/1xLY0xmofZpixy3Rd_NGj4DkoVnh_U3tP/view?usp=sharing)<!-- Fix MQTTS TLS : https://github.com/Xinyuan-LilyGO/LilyGo-Modem-Series/issues/515-->
 
 ------------------------
 
@@ -78,6 +86,12 @@
 ### A7670SA-LASC No GPS
 
 * [A7670SA-LASC B01](https://drive.google.com/file/d/127FpmjV9TNFJcNEUK03X03sGpGGqFc-u/view?usp=sharing)
+
+------------------------
+
+### A7682E
+
+* 🆕[A011B18A7682M7](https://drive.google.com/file/d/1D7R7yAtRTA0wkWouIRv8wSztfV5Bj-D9/view?usp=sharing)
 
 ------------------------
 
@@ -114,7 +128,7 @@ See [LilyGo SIM7670G Upgrade Guide](./en/upgrade/sim7670g/sim7670g_upgrade.md)
 > \[!IMPORTANT]
 > Steps to enter upgrade mode
 >
-> 1. Press and hold the SBOOT button close to the Modelm and do not release it.
+> 1. Press and hold the SBOOT button close to the modem and do not release it.
 > 2. Plug in MICRO-USB
 > 3. Plug in USB-C
 > 4. Check the device manager and wait for the computer port to be generated

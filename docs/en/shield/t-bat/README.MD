@@ -4,6 +4,12 @@
 
 <h1 align = "center">🌟LilyGo T-BAT Usage Guide🌟</h1>
 
+<div align="center">
+
+[English](./README.MD) | [中文](../../../cn/shield/t-bat/README.MD)
+
+</div>
+
 
 <div align="center" markdown="1">
   <img src="../../../../images/product/png/T-BAT.png" alt="t-bat" width="480"/>
@@ -16,8 +22,13 @@
 | USB input voltage                      | 4.5~5.5V |
 | Solar Input Voltage                    | 4.5 ~ 6V |
 | Battery interface allows input voltage | 4.2V     |
+| Battery Type                           | Single-cell rechargeable Li-ion/LiPo (4.2 V full-charge) |
 | MicroUSB/Solar Charge Max Current      | 500mA    |
 | USB OUT                                | 1A       |
+
+> \[!IMPORTANT]
+>
+> Do not use or charge LiFePO4 batteries, or any battery with a full-charge voltage other than 4.2 V, in this device. This device supports only single-cell rechargeable Li-ion/LiPo batteries with a 4.2 V full-charge voltage.
 
 ### ⚡Battery Protector Description
 

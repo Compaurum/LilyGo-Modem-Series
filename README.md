@@ -4,6 +4,12 @@
 
 <h1 align = "center">🌟LilyGo-Modem-Series🌟</h1>
 
+<div align="center">
+
+[English](./README.md) | [中文](./README_cn.md)
+
+</div>
+
 [![PlatformIO CI](https://github.com/Xinyuan-LilyGO/LilyGo-Modem-Series/actions/workflows/platformio.yml/badge.svg)](https://github.com/Xinyuan-LilyGO/LilyGo-Modem-Series/actions/workflows/platformio.yml)
 
 # News
@@ -25,21 +31,21 @@
   <tr style="border: 0;">
     <!-- T-A7670X -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/a7670-esp32/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/a7670-esp32/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/Q334-T-A7670E-ESP32.png" alt="T-A7670X-ESP32" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-A7670X Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">Q334,Q195,Q380,Q335</br>Q425,Q196,Q436</br>T-A7670X Quick Start</div>
       </a>
     </td>
     <!-- T-A7608X -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/a7608-esp32/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/a7608-esp32/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/Q344-T-A7608-ESP32.png" alt="T-A7608X-ESP32" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-A7608X Quick Start</div>
       </a>
     </td>
     <!-- T-SIM7000G -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/sim7000-esp32/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/sim7000-esp32/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/Q141-SIM7000G-ESP32.png" alt="T-SIM7000G-ESP32" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7000G Quick Start</div>
       </a>
@@ -51,21 +57,21 @@
   <tr style="border: 0;">
     <!-- T-SIM7070G-ESP32 -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/sim7070-esp32/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/sim7070-esp32/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/Q323-T-SIM7070G-ESP32.png" alt="T-SIM7070G-ESP32" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7070G Quick Start</div>
       </a>
     </td>
     <!-- T-SIM7600X -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/sim7600-esp32/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/sim7600-esp32/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H503-T-SIM7600G-ESP32.png" alt="T-SIM7600X" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7600X Quick Start</div>
       </a>
     </td>
     <!-- T-Call-A7670X -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/t-call-a7670x/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/t-call-a7670x/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H700-T-Call-A7670-ESP32.png" alt="T-Call-A7670X" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-Call-A7670X Quick Start</div>
       </a>
@@ -77,14 +83,14 @@
   <tr style="border: 0;">
     <!-- T-PCIE-Series -->
     <td style="padding: 10px 20px; width: 50%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/pcie-series-esp32/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/pcie-series-esp32/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/Q415-PCIE-ESP32.png" alt="T-PCIE-Series" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-PCIE-Series Quick Start</div>
       </a>
     </td>
     <!-- T-InterNetCom -->
     <td style="padding: 10px 20px; width: 50%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32/t-internet-com-esp32/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32/t-internet-com-esp32/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/Q329-T-Internet-COM.png" alt="T-Internet-COM" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-Internet-COM Quick Start</div>
       </a>
@@ -97,21 +103,21 @@
   <tr style="border: 0;">
     <!-- T-A7608-S3 -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/a7608x-s3/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/a7608x-s3/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H694-T-A7608-S3.png" alt="T-A7608-S3" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-A7608X-ESP32S3 Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">H657,H694</br>T-A7608X-ESP32S3 Quick Start</div>
       </a>
     </td>
     <!-- T-SIM7670G-ESP32S3 -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/sim7670g-s3/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/sim7670g-s3/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H707-T-SIM7670G-ESP32S3.png" alt="T-SIM7670G-ESP32S3" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7670G-ESP32S3 Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">H707</br>T-SIM7670G-ESP32S3 Quick Start</div>
       </a>
     </td>
     <!-- T-Eth-Elite-ESP32S3 -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/t-eth-elite-s3/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/t-eth-elite-s3/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H744-T-ETH-Elite-LTE.png" alt="T-Eth-Elite-ESP32S3" width="200" style="border: 0;"/>
         <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-Eth-Elite Quick Start</div>
       </a>
@@ -126,23 +132,23 @@
   <tr style="border: 0;">
     <!-- T-A7670X-S3-Standard -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/a7670x-s3-standard/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/a7670x-s3-standard/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H799-01-T-A7670X-S3-Standard.png" alt="T-A7670X-S3-Standard" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-A7670X-S3-Standard Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">H799,H799-01,H799</br>H800,H800-01,H801,H801-1</br>T-A7670X-S3-Standard Quick Start</div>
       </a>
     </td>
     <!-- T-SIM7670G-S3-Standard -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/sim7670g-s3-standard/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/sim7670g-s3-standard/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H802-T-SIM7670G-S3-Standard.png" alt="T-SIM7670G-S3-Standard" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7670G-S3-Standard Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">H802</br>T-SIM7670G-S3-Standard Quick Start</div>
       </a>
     </td>
     <!-- T-SIM7000G-S3-Standard -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/sim7000g-s3-standard/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/sim7000g-s3-standard/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H794-T-SIM7000G-S3-Standard.png" alt="T-SIM7000G-S3-Standard" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7000G-S3-Standard Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">H794</br>T-SIM7000G-S3-Standard Quick Start</div>
       </a>
     </td>
   </tr>
@@ -152,16 +158,16 @@
   <tr style="border: 0;">
     <!-- T-SIM7080G-S3-Standard -->
     <td style="padding: 10px 20px; width: 50%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/sim7080-s3-standard/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/sim7080-s3-standard/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H795T-SIM7080G-S3-Standard.png" alt="T-SIM7080G-S3-Standard" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7080G-S3-Standard Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">H795</br>T-SIM7080G-S3-Standard Quick Start</div>
       </a>
     </td>
     <!-- T-SIM7600G-S3-Standard -->
     <td style="padding: 10px 20px; width: 50%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/sim7600g-s3-standard/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/esp32s3/sim7600g-s3-standard/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H803-T-SIM7600G-S3-Standard.png" alt="T-SIM7600G-S3-Standard" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7600G-S3-Standard Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">H803</br>T-SIM7600G-S3-Standard Quick Start</div>
       </a>
     </td>
   </tr>
@@ -182,14 +188,14 @@
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
       <a href="https://lilygo.cc/products/lilygo%C2%AE-t-simhat-can-rs485-relay-5v" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H607-T-SIM-Hat.png" alt="T-SIM7670G-S3-Standard" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat Relay Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat RelayUsage Guide</div>
       </a>
     </td>
     <!-- T-SimHat Can/RS485 -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
       <a href="https://lilygo.cc/products/lilygo%C2%AE-t-simhat-can-rs485-relay-5v?variant=42200124752053" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H559-T-SIM-Can.png" alt="T-SimHat Can/RS485" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat Can/RS485 Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimHat Can/RS485 Usage Guide</div>
       </a>
     </td>
   </tr>
@@ -199,27 +205,36 @@
   <tr style="border: 0;">
     <!-- T-SIM7600G-S3-Standard -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
-      <a href="./docs/en/esp32s3/sim7600g-s3-standard/REAMDE.MD" style="text-decoration: none; display: block;">
+      <a href="./docs/en/shield/n322-t-sim7600g-s3-standard-expansionkit/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/H803-N322.png" alt="T-SIM7600G-S3-Standard-ExpansionKit" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7600G-S3-Standard-ExpansionKit Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SIM7600G-S3-Standard-ExpansionKit Usage Guide</div>
       </a>
+    <!-- DC-Shield -->
+    <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
+      <a href="./docs/en/shield/t-dc-shield/README.MD" style="text-decoration: none; display: block;">
+        <img src="./images/product/png/H812-DC-Shield.png" alt="T-SimDcShield" width="200" style="border: 0;"/>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-SimDcShield Usage Guide</div>
+      </a>
+    </td>
     </td>
     <!-- T-BAT -->
     <td style="padding: 10px 20px; width: 33.33%; border: 0; background: transparent;">
       <a href="./docs/en/shield/t-bat/README.MD" style="text-decoration: none; display: block;">
         <img src="./images/product/png/T-BAT.png" alt="T-SIM7600G-S3-Standard-ExpansionKit" width="200" style="border: 0;"/>
-        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-BAT Quick Start</div>
+        <div style="color: #FFFF; font-weight: 600; margin-top: 8px;">T-BAT Usage Guide</div>
       </a>
     </td>
 </table>
 
 <!-- - 🔧 **[SimShield Usage Guide](./docs/en/SimshieldUsageGuide/README.md)** -->
 
+## Standard Series Comparison
 
+- 🔧 **[Standard Series Selection Comparison](./docs/standard_series_comparison.md)**
 
 ## Modem firmware Upgrade Guide
 
-- 🔧 **[A7670/A7608 Upgrade Guide](./docs/update_fw.md)**
+- 🔧 **[A7670/A7608/A7682X Upgrade Guide](./docs/update_fw.md)**
 - 🔧 **[SIM7670G Upgrade Guide](./docs/en/upgrade/sim7670g/sim7670g_upgrade.md)**
 - 🔧 **[SIM7000G Upgrade Guide](./docs/en/esp32/sim7000-esp32/upgrade/sim7000_upgrade.md)**
 - 🔧 **[SIM7080G Upgrade Guide](./docs/en/esp32s3/sim7080-s3-standard/upgrade/README.MD)**
